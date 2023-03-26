@@ -1,0 +1,6 @@
+{
+  "name": "my-demo-web-portal-devcontainer",
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
